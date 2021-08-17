@@ -1,0 +1,9 @@
+/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/deps/async_tungstenite-832e074271041c9e.rmeta: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/compat.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/handshake.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/stream.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/tokio.rs
+
+/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/deps/async_tungstenite-832e074271041c9e.d: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/compat.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/handshake.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/stream.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/tokio.rs
+
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/lib.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/compat.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/handshake.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/stream.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-tungstenite-0.9.3/src/tokio.rs:

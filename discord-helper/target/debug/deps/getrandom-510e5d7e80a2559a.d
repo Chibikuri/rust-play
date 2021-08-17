@@ -1,0 +1,11 @@
+/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/deps/getrandom-510e5d7e80a2559a.rmeta: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/macos.rs
+
+/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/deps/getrandom-510e5d7e80a2559a.d: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/macos.rs
+
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/macos.rs:

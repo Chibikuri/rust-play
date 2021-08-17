@@ -1,0 +1,10 @@
+/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/deps/libasync_trait-317bc8150ba48072.dylib: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/args.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/expand.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/lifetime.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/parse.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/receiver.rs
+
+/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/deps/async_trait-317bc8150ba48072.d: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/args.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/expand.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/lifetime.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/parse.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/receiver.rs
+
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/lib.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/args.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/expand.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/lifetime.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/parse.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.50/src/receiver.rs:

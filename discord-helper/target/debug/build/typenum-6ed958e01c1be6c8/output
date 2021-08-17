@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/build/typenum-6ed958e01c1be6c8/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ryosukesatoh/Projects/rust-play/discord-helper/target/debug/build/typenum-6ed958e01c1be6c8/out/op.rs

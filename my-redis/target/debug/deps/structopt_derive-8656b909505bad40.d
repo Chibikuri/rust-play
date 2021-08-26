@@ -1,0 +1,10 @@
+/Users/ryosukesatoh/Projects/rust-play/my-redis/target/debug/deps/libstructopt_derive-8656b909505bad40.dylib: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/attrs.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/doc_comments.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/parse.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/spanned.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/ty.rs
+
+/Users/ryosukesatoh/Projects/rust-play/my-redis/target/debug/deps/structopt_derive-8656b909505bad40.d: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/lib.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/attrs.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/doc_comments.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/parse.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/spanned.rs /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/ty.rs
+
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/lib.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/attrs.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/doc_comments.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/parse.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/spanned.rs:
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.15/src/ty.rs:

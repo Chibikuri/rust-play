@@ -1,0 +1,7 @@
+/Users/ryosukesatoh/Projects/rust-play/my-redis/target/debug/deps/atoi-ec8c4e2179f1c371.rmeta: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/atoi-0.3.3/src/lib.rs
+
+/Users/ryosukesatoh/Projects/rust-play/my-redis/target/debug/deps/libatoi-ec8c4e2179f1c371.rlib: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/atoi-0.3.3/src/lib.rs
+
+/Users/ryosukesatoh/Projects/rust-play/my-redis/target/debug/deps/atoi-ec8c4e2179f1c371.d: /Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/atoi-0.3.3/src/lib.rs
+
+/Users/ryosukesatoh/.cargo/registry/src/github.com-1ecc6299db9ec823/atoi-0.3.3/src/lib.rs:
